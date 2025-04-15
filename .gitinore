@@ -1,0 +1,22 @@
+# Entornos virtuales de Python
+.venv/
+venv/
+env/
+
+# Archivos de caché de Python
+_pycache_/
+*.pyc
+*.pyo
+
+# Archivos de entorno (contraseñas, API keys)
+.env
+.env.local
+
+# IDEs y editores
+.idea/
+.vscode/
+*.swp
+
+# Archivos del sistema
+.DS_Store  (macOS)
+Thumbs.db  (Windows)
